@@ -3,24 +3,24 @@
     "nama": "Paket Kiloan",
     "deskripsi": "Cuci dan setrika pakaian sehari-hari maksimal 5 kg.",
     "harga": 25000,
-    "gambar": "https://www.google.com/imgres?q=laundry%20paket%20dry%20cleaning&imgurl=https%3A%2F%2Fimages.tokopedia.net%2Fimg%2Fcache%2F700%2FVqbcmM%2F2024%2F4%2F16%2F2d5fe694-8f03-4be8-a3eb-d791ce3b7781.jpg&imgrefurl=https%3A%2F%2Fwww.tokopedia.com%2Fcirebonlaundry%2Fpaket-dry-cleaning-laundry-paket-a-bd4ff&docid=puEeBzMaBUePuM&tbnid=6XtenoUMGS0qxM&vet=12ahUKEwiYkPCUx8SQAxV-SWwGHeSnHzUQM3oECCAQAA..i&w=700&h=875&hcb=2&ved=2ahUKEwiYkPCUx8SQAxV-SWwGHeSnHzUQM3oECCAQAA"
+    "gambar": "images/paketkiloan.jpg"
   },
   {
     "nama": "Paket Ekspres",
     "deskripsi": "Selesai dalam waktu 6 jam, cocok untuk kebutuhan mendesak.",
     "harga": 40000,
-    "gambar": "https://arvinrahmadh.github.io/Web_Api/images/paketekspres.jpg"
+    "gambar": "images/paketekspres.jpg"
   },
   {
     "nama": "Paket Setrika Saja",
     "deskripsi": "Hanya setrika, pakaian Anda tetap rapi dan wangi.",
     "harga": 15000,
-    "gambar": "https://arvinrahmadh.github.io/Web_Api/images/paketsetrika.jpg"
+    "gambar": "images/paketsetrika.jpg"
   },
   {
     "nama": "Paket Dry Cleaning",
     "deskripsi": "Perawatan khusus untuk jas, kebaya, dan pakaian formal.",
     "harga": 50000,
-    "gambar": "https://arvinrahmadh.github.io/Web_Api/images/paketdrycleaning.jpg"
+    "gambar": "images/paketdrycleaning.jpg"
   }
 ]
