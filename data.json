@@ -3,24 +3,25 @@
     "nama": "Paket Kiloan",
     "deskripsi": "Cuci dan setrika pakaian sehari-hari maksimal 5 kg.",
     "harga": 25000,
-    "gambar": "images/gambar.jpg"
+    "gambar": "images/paketkiloan.jpg"
   },
   {
     "nama": "Paket Ekspres",
     "deskripsi": "Selesai dalam waktu 6 jam, cocok untuk kebutuhan mendesak.",
     "harga": 40000,
-    "gambar": "images/gambar2.jpg"
+    "gambar": "images/paketekspres.jpg"
   },
   {
     "nama": "Paket Setrika Saja",
     "deskripsi": "Hanya setrika, pakaian Anda tetap rapi dan wangi.",
     "harga": 15000,
-    "gambar": "images/gambar3.jpg"
+    "gambar": "images/paketsetrika.jpg"
   },
   {
     "nama": "Paket Dry Cleaning",
     "deskripsi": "Perawatan khusus untuk jas, kebaya, dan pakaian formal.",
     "harga": 50000,
-    "gambar": "images/laundry4.jpg"
+    "gambar": "images/paketdrycleaning.jpg"
   }
 ]
+
